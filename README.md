@@ -2,6 +2,8 @@
 
 ![Pabllo GitHub stats](https://github-readme-stats.vercel.app/api?username=Pabbs00&show_icons=true&theme=tokyonight)
 
+- Sou iniciante em programação.
+
 ### Tecnologias em estudo: 
 
 <div style="display: inline_block"><br/>
