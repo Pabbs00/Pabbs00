@@ -2,7 +2,7 @@
 
 ![Pabllo GitHub stats](https://github-readme-stats.vercel.app/api?username=Pabbs00&show_icons=true&theme=tokyonight)
 
-- Sou iniciante em programação.
+- Sou iniciante em programação, atualmente estou retornando aos estudos. Aqui está toda a minha evolução em função do tempo e estudo.
 
 ### Tecnologias em estudo: 
 
