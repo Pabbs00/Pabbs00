@@ -1,6 +1,4 @@
 # Pabllo S.S. 👋
-`Estudante de Engenharia de Software & Automação`
-
 ---
 
 ### 🚀 Sobre Mim
