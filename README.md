@@ -1,4 +1,4 @@
-# Pabllo S.S. 👋
+# Pabllo dos S. Silveira 👋
 ---
 
 ### 🚀 Sobre Mim
@@ -20,21 +20,11 @@ Sou um desenvolvedor iniciante focado em reconstruir uma base sólida de program
 
 ---
 
-### 📊 Estatísticas Gerais
-
-<div align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://vercel.app" alt="Linguagens Mais Usadas" width="48%" />
-</div>
-
----
-
 ### 🌐 Redes Sociais & Contato
 
 Abaixo você encontra os canais oficiais para acompanhar meu trabalho ou entrar em contato:
 
-* 💼 **LinkedIn:** [Acesse meu perfil profissional](https://linkedin.com) *(Substitua este link pela URL do seu perfil)*
-* 📧 **E-mail:** [Mande uma mensagem direta](mailto:seu-email@provedor.com) *(Substitua pelo seu e-mail real)*
+* 📧 **E-mail:** [Mande uma mensagem direta](mailto:spabllo80@gmail.com)
 
 ---
 <p align="center"><i>"A constância supera o talento quando o talento não se esforça."</i></p>
