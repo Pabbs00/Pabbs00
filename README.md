@@ -3,12 +3,10 @@
 
 ### 🚀 Sobre Mim
 
-Sou um desenvolvedor iniciante focado em reconstruir uma base sólida de programação. Utilizo este espaço para registrar toda a minha evolução técnica, centralizando meus estudos e projetos práticos.
+Sou um desenvolvedor iniciante focado em construir uma base sólida de programação. Utilizo este espaço para registrar toda a minha evolução técnica, centralizando meus estudos e projetos práticos.
 
 * 🔭 **Foco Atual:** Domínio de algoritmos e lógica de programação estruturada.
 * 📚 **Abordagem:** Aprendizado contínuo através de projetos práticos e consistência diária.
-* ⚙️ **Diferencial:** Curiosidade em entender como o código funciona por trás das telas.
-
 ---
 
 ### 🛠️ Tecnologias & Ambiente de Desenvolvimento
